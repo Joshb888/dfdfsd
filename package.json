@@ -1,0 +1,22 @@
+{
+  "name": "div_data",
+  "version": "0.0.0",
+  "description": "Data visualization using only divs and javascript",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "parcel",
+    "test": "test"
+  },
+  "keywords": [
+    "javascript",
+    "data"
+  ],
+  "author": "Dereck Rasmussen",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "csv": "^0.3.7"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
+}
